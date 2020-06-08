@@ -1,1 +1,3 @@
 This some random test for learning AJAX
+This wasn't working previously 
+but now we have it up and running.
